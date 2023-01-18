@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moogie3
-- 👀 I’m interested in Web Developing, Digital Marketing, and anything related to Technology Information
+- 👀 I’m interested in Web Developing and anything related to Technology Information
 - 🌱 I’m currently learning how to be a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
