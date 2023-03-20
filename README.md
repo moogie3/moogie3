@@ -21,9 +21,6 @@ You can contact me here.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moogie3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moogie3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moogie3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
